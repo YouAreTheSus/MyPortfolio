@@ -1,0 +1,14 @@
+/* CSS Comment here*/
+
+/*element rule*/
+p {   color:black;
+      font-family: Courier;
+      border-style:inset;
+      border-width: 6px;
+      border-color: black;}
+
+/*identifier rule <tag id="identifier"*/
+#identifier {   color:red;  }
+
+/*class rule for <tag class="class1"*/
+.class1 { color:red;}
